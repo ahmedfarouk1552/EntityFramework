@@ -1,0 +1,30 @@
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.exe.config
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.exe
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.pdb
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.dll
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.SqlServer.dll
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.xml
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.SqlServer.xml
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.AssemblyReference.cache
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.Form1.resources
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.Properties.Resources.resources
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.GenerateResource.cache
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.CopyComplete
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.exe
+F:\iti\الأسبوع الحادي عشر\C#\D04\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.pdb
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.exe.config
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.exe
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\LabEFD01.pdb
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.dll
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.SqlServer.dll
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.xml
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\bin\Debug\EntityFramework.SqlServer.xml
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.AssemblyReference.cache
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.Form1.resources
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.Properties.Resources.resources
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.GenerateResource.cache
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.csproj.CopyComplete
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.exe
+F:\iti\الأسبوع الحادي عشر\C#\Day10 EntityFrameWork\Tasks\LabEFD01\LabEFD01\obj\Debug\LabEFD01.pdb
